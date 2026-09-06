@@ -1,0 +1,6 @@
+if SHIELD_KEEB_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "Keeb Right"
+
+endif # SHIELD_KEEB_RIGHT

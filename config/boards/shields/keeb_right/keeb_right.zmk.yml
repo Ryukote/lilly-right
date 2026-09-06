@@ -1,0 +1,8 @@
+file_format: "1"
+id: keeb_right
+name: Keeb Right (custom handwire, desna polovica)
+type: shield
+url: ""
+requires: [nice_nano]
+features:
+  - keys
